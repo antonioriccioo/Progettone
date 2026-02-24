@@ -25,5 +25,5 @@ public class LabirintoApplication extends Application {
 
     public static void main(String[] args) {
         launch();
-    }
+    }//.
 }
